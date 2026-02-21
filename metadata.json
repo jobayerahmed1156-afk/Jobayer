@@ -1,0 +1,5 @@
+{
+  "name": "Tarteel AI Clone",
+  "description": "An AI-powered Quran recitation companion that listens to your recitation and provides feedback.",
+  "requestFramePermissions": ["microphone"]
+}
